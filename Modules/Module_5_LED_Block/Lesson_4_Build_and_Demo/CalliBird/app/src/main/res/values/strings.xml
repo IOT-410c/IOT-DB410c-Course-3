@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LEDBlock</string>
+    <string name="game_over">CalliBird has fallen. Would you like to play again?</string>
+    <string name="restart">Revive CalliBird</string>
+    <string name="score">Score: </string>
+
+</resources>

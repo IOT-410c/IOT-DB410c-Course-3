@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Ara/AndroidStudioProjects/ledblock-fb/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/Ara/AndroidStudioProjects/ledblock-fb/app/build/intermediates/pre-dexed/debug/classes-d3335d22644c9be5aa71720a3742ea957411b1c2.jar" />
+    </item>
+    <item
+        jar="/Users/Ara/AndroidStudioProjects/ledblock-fb/app/build/intermediates/exploded-aar/net.calit2.mooc.iot_db410c/db410c_gpiolib/1.0.7/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="45d92e27211ebc4d27f7a3e15913eff9e631a168">
+        <dex dex="/Users/Ara/AndroidStudioProjects/ledblock-fb/app/build/intermediates/pre-dexed/debug/classes-79b73416b47ea621264b72c867ed56ff3e17e8d2.jar" />
+    </item>
+    <item
+        jar="/Users/Ara/AndroidStudioProjects/ledblock-fb/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/Ara/AndroidStudioProjects/ledblock-fb/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-cefbc56cf7686e6bee072b1e69805e1bce72b342.jar" />
+    </item>
+    <item
+        jar="/Users/Ara/AndroidStudioProjects/ledblock-fb/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/Ara/AndroidStudioProjects/ledblock-fb/app/build/intermediates/pre-dexed/debug/classes-12bcb9ddf069263c3e7fab916af187def68a2508.jar" />
+    </item>
+    <item
+        jar="/Users/Ara/Development/android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/Ara/AndroidStudioProjects/ledblock-fb/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-ade303543ac96bbef19199c35c16a3e707d89f70.jar" />
+    </item>
+
+</items>

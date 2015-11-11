@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">WebServer</string>
+    <!-- WebServer -->
+    <string name="date_format">EEE, dd MMM yyyy HH:mm:ss z</string>
+    <string name="time_zone">GMT</string>
+    <string name="default_html_page"><![CDATA[<!DOCTYPE html><html><head><title>Welcome</title></head><body><h1>Welcome to the DragonBoard410c</h1></body></html>]]></string>
+    <string name="error_html_page"><![CDATA[<!DOCTYPE html><html><head><title>Error 404 Not Found</title></head><body><h1>Page Not Found</h1></body></html>]]></string>
+    <string name="error_page">HTTP/1.1 404 Not Found</string>
+
+    <!-- JSON -->
+    <string name="device">Device</string>
+    <string name="computation">Computation</string>
+    <string name="networks">Networks</string>
+    <string name="gpio">GPIO</string>
+    <string name="peripherals">Peripherals</string>
+    <string name="status">Status</string>
+    <string name="gpio_number">GPIO Number</string>
+    <string name="value">Value</string>
+    <string name="direction">Direction</string>
+    <string name="usb">USB</string>
+    <string name="cores">Number of Cores</string>
+    <string name="cpu_usage">CPU Usage</string>
+    <string name="mem_usage">Memory Usage</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="location_service">Location Service</string>
+    <string name="ssid">SSID</string>
+    <string name="wifi">Wifi</string>
+
+    <!-- SystemInfo -->
+    <string name="cpu_file">/proc/stat</string>
+    <string name="read_only">r</string>
+    <string name="percentage">%1$.2f</string>
+    <string name="wifi_disabled">Wifi Disabled</string>
+    <string name="wifi_enabled_not_connected">Wifi Enabled; Not Connected to a Network</string>
+    <string name="last_update">Last Update</string>
+</resources>
