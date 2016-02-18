@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="@dimen/horizontal_page_margin"
+    >
+
+    <!-- Need to add buttons -->
+    <Button
+        android:id="@+id/yellow_on"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:background="#FFFF00"
+        android:text="On"
+        />
+
+    <Button
+        android:id="@+id/red_on"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:background="#FF0000"
+        android:layout_toRightOf="@+id/yellow_on"
+        android:text="On"
+        />
+
+    <Button
+        android:id="@+id/green_on"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:background="#00FF00"
+        android:layout_toRightOf="@+id/red_on"
+        android:text="On"
+        />
+
+    <Button
+        android:id="@+id/yellow_off"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:background="#FFFF00"
+        android:layout_below="@+id/yellow_on"
+        android:layout_marginTop="20dp"
+        android:text="Off"
+        />
+
+    <Button
+        android:id="@+id/red_off"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:background="#FF0000"
+        android:layout_below="@+id/red_on"
+        android:layout_toRightOf="@+id/yellow_off"
+        android:layout_marginTop="20dp"
+        android:text="Off"
+        />
+
+    <Button
+        android:id="@+id/green_off"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:background="#00FF00"
+        android:layout_below="@+id/green_on"
+        android:layout_toRightOf="@+id/red_off"
+        android:layout_marginTop="20dp"
+        android:text="Off"
+        />
+
+</RelativeLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Mac/Desktop/bluetoothremovereceiver/app/build/intermediates/transforms/instantRunSlicer/debug/jars/1/1a/dependencies.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d9c3abf5e4d3edbf106718dd037683a5fe041af8">
+        <dex dex="/Users/Mac/Desktop/bluetoothremovereceiver/app/build/intermediates/transforms/dex/debug/folders/1000/1a/dependencies_3e9b15ec6ebda560dcddf01545eacbc7f9c18f87/classes.dex" />
+    </item>
+
+</items>
